@@ -16,7 +16,7 @@ Most recent solutions use Golang and the way I do most of these puzzles are to m
 I don't aim to be first on any leaderboard. I aim to have fun solving the coding problems!
 
 ## Issue
-If you see any issue or see a better way of solving these puzzles, please raise an issue at [GitHub](https://github.com/pr0xity/AoC/issues/new). I am all about learning so I'd love any input I can get!
+If you see any issue or see a better way of solving these puzzles, please raise an issue [here](https://github.com/pr0xity/AoC/issues/new). I am all about learning so I'd love any input I can get!
 
 #### Liked the work?
 - Give the repository a star ;-)
