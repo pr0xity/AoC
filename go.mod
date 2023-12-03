@@ -1,6 +1,6 @@
 module github.com/pr0xity/AoC
 
-go 1.19
+go 1.21
 
 require github.com/samber/lo v1.36.0
 
